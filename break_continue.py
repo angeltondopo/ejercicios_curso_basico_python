@@ -1,10 +1,4 @@
 # Interrumpiendo ciclos
-
-from operator import le
-
-from pyparsing import line
-
-
 def run():
 
 # Interrumpiendo ciclos con
